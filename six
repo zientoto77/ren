@@ -1,0 +1,135 @@
+<style type="text/css">
+
+.news-detail {
+height: 130px;
+}
+
+.col-md-9 .owl-wrapper-outer .owl-item {
+float: left;
+width: 155px !important;
+}
+.owl-carousel {
+margin-left: 1px !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(1) {
+content: url("http://mbahtoto.xyz/wp-content/uploads/2018/09/Hongkong-Pools-1.gif") !important;
+}
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(2) {
+content: url("http://mbahtoto.xyz/wp-content/uploads/2018/09/Canadia-Pools-1.gif") !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(3) {
+content: url("http://mbahtoto.xyz/wp-content/uploads/2018/09/Singapore-Pools-1.gif") !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(4) {
+content: url("http://mbahtoto.xyz/wp-content/uploads/2018/09/Israel-Pools-1.gif") !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(5) {
+content: url("http://mbahtoto.xyz/wp-content/uploads/2018/09/Sydney-Pools-1.gif") !important;
+}
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(6) {
+content: url("http://mbahtoto.xyz/wp-content/uploads/2018/09/Siam-Pools-1.gif") !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(7) {
+content: url("http://mbahtoto.xyz/wp-content/uploads/2018/09/Khmer-Pools-1.gif") !important;
+}
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(8) {
+content: url("http://mbahtoto.xyz/wp-content/uploads/2018/09/Saigon-Lotto-1.gif") !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(9) {
+content: url("http://mbahtoto.xyz/wp-content/uploads/2018/09/Toto-Macau.gif") !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(10) {
+content: url("http://mbahtoto.xyz/wp-content/uploads/2018/09/12d-Bola-Gelinding.gif") !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(11) {
+content: url("http://mbahtoto.xyz/wp-content/uploads/2018/09/24D-Pool.gif") !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(12) {
+content: url("http://mbahtoto.xyz/wp-content/uploads/2018/09/24D-Spin-1.gif") !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(13) {
+content: url("http://mbahtoto.xyz/wp-content/uploads/2018/09/Dice6-1.gif") !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(14) {
+content: url("http://mbahtoto.xyz/wp-content/uploads/2018/09/Billiards-1.gif") !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(15) {
+content: url("http://mbahtoto.xyz/wp-content/uploads/2018/09/Gong-Ball-1.gif") !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(16) {
+content: url("http://mbahtoto.xyz/wp-content/uploads/2018/09/Sicbo-Dice.gif") !important;
+}
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(17) {
+content: url("http://mbahtoto.xyz/wp-content/uploads/2018/09/Monopoly-1.gif") !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(18) {
+content: url("http://mbahtoto.xyz/wp-content/uploads/2018/09/Head-Tail-1.gif") !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(19) {
+content: url("http://mbahtoto.xyz/wp-content/uploads/2018/09/Roulette-1.gif") !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(20) {
+content: url("http://mbahtoto.xyz/wp-content/uploads/2018/09/Oglok-1.gif") !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(21) {
+content: url("http://mbahtoto.xyz/wp-content/uploads/2018/09/Poker-Dice-1.gif") !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(22) {
+content: url("http://mbahtoto.xyz/wp-content/uploads/2018/09/Red-And-White.gif") !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(23) {
+content: url("http://mbahtoto.xyz/wp-content/uploads/2018/09/Suwit-1.gif") !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(24) {
+content: url("http://mbahtoto.xyz/wp-content/uploads/2019/07/Dragontiger1.gif") !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(25) {
+content: url("http://mbahtoto.xyz/wp-content/uploads/2019/07/Baccarat.gif") !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(26) {
+content: url("http://mbahtoto.xyz/wp-content/uploads/2019/12/FAN-TAN.gif") !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(27) {
+content: url("http://mbahtoto.xyz/wp-content/uploads/2019/12/idn-4-stand.gif") !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(28) {
+content: url("http://mbahtoto.xyz/wp-content/uploads/2019/12/rolet-fast.gif") !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(29) {
+content: url("http://mbahtoto.xyz/wp-content/uploads/2019/12/niu-niu.gif") !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(30) {
+content: url("http://mbahtoto.xyz/wp-content/uploads/2019/12/shio.gif") !important;
+}
+
+border: 1px solid transparent !important;
+padding: 2px !important;
+}
+
+</style>
